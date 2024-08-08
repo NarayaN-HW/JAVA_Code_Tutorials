@@ -1,5 +1,4 @@
-![Preview](https://raw.githubusercontent.com/FoORK-Lab/opensource-contribution/023a2ac700e20ae32ef32f13257ea6e41c917c75/portfolio_final.png)
-
+![Preview]
 <h1 align="center">Hi 👋, I'm NARAYAN LAXMI PATIL</h1>
 
 Hands on Step by Step Introduction to the most popular programming language like java, python, c++, ruby and so on...
